@@ -1,0 +1,2 @@
+[0407/213326.428:ERROR:exception_snapshot_win.cc(87)] thread ID 860 not found in process
+[0407/213326.429:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
